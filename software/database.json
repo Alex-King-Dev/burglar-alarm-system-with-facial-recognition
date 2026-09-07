@@ -1,0 +1,14 @@
+{
+    "example_user1": {
+        "pin": "0000",
+        "encoding": "128-value dlib face encoding array (omitted)",
+        "image": "example_user1.jpg",
+        "role": "ADMIN"
+    },
+    "example_user2": {
+        "pin": "1111",
+        "encoding": "128-value dlib face encoding array (omitted)",
+        "image": "example_user2.jpg",
+        "role": "STAFF"
+    }
+}
